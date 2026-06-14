@@ -6,7 +6,7 @@ I’m a passionate web developer who loves building modern, responsive, and user
 I enjoy turning ideas into real products with clean UI and powerful backend logic.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+real-world+projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+real-world+projects" />
 </p>
 
 ## 🚀 About Me
